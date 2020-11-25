@@ -1,6 +1,6 @@
 <?php
 /******************************************
- * Grupo 2:
+ * Grupo 2: //
  * NATALIA PAMELA MORA VÁSQUEZ - FAI 2151
  * MATIAS FEDERICO PERALTA MACRI - FAI 3077
  * PABLO DAMIAN ROMERO - FAI 1652
